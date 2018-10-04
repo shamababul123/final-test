@@ -1,0 +1,65 @@
+body, body * {
+    font-family: 'Montserrat', sans-serif;
+    color: #494949;
+}
+
+body {
+    background-color: #40a63d1a;
+}
+
+/* Write all your CSS here! */
+.navbar{
+	padding: 0.1em;
+}
+#header {
+	color: red;
+	font-size: 1em;
+}
+#nav {
+	background-color: #4d4d4d;
+	padding: 0.3em;
+}
+#menu {
+	color: #999999;
+	font-weight: bold;
+	font-size: 0.8em;
+}
+p {
+	color: #4d4d4d;
+	font-weight: bold;
+	margin-left: 150px;
+	padding: 30px;
+	font-size: 1.5em;
+}
+.imag {
+	display: flex;
+	justify-content: flex-end;
+	align-items: flex-end;
+}
+.card{
+	margin-left: 180px;
+	width: 600px;
+	height: 200px;
+}
+#succ {
+	margin-left: 180px;
+}
+i {
+	color: #00cc00;
+}
+#card-first {
+	width: 500px;
+	height: 300px;
+	margin-left: 800px;
+	
+}
+#success {
+	margin-left: 800px;
+
+}
+.card-title {
+	font-weight: bold;
+}
+.card-subtitle {
+	color: #4d4d4d;
+}
